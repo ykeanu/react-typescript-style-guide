@@ -1,6 +1,5 @@
 # react-typescript-style-guide
 
-<div align="center">
 
 ## React & Redux in TypeScript - Static Typing Guide
 
